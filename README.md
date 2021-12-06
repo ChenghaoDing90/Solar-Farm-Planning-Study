@@ -9,10 +9,10 @@
 
 Conclusions:
 
-1) For standalone solar, the case study is close to cost effective, and the benefit will grow over time. Because the utility-scale system costs will decrease (according to EIA, NREL, Wood Mackenzie…), and the electricity price and demand will grow. This case only study the price taker model, if consider more condition as the tax saving and other potential benefit, it might include more benefit in the analysis.
-2) For stand along storage, the benefit will grow over time. Since it has the potential to provide services that could reduce power system costs, and the installation cost will reduce.  Also, this model only calculate the energy arbitrage results, if consider the storage in other ancillary services, it might have more potential benefit. Storage can also replace traditional peaker plants,  and gain expected energy revenue and emission reduce benefit. 
+1) For standalone solar, the case study is cost effective, and the benefit will grow over time. Because the utility-scale system costs will decrease (according to EIA, NREL, Wood Mackenzie…), and the electricity price and demand will grow. This case only study the price taker model, if consider more condition as the tax saving and other potential benefit, it might include more benefit in the analysis.
+2) For standalone storage, it is not cost effective, however, the benefit will grow over time. Since it has the potential to provide services that could reduce power system costs, and the installation cost will reduce.  Also, this model only calculate the energy arbitrage results, if consider the storage in other ancillary services, it might have more potential benefit. Storage can also replace traditional peaker plants, and gain expected energy revenue and emission reduction benefit. 
 3) For solar plus storage , the benefit will grow, cost for solar plus storage is less than install them along. Better dispatch algorithm can gain more benefit for storage and solar together, and the benefit will grow faster for both of them. However, this should only consider when both of them are cost effective.
-4) I would not recommend any of them because my analysis finds that none of the three set up is cost-effective, under my assumptions. However, this result is based on the assumption that solar plant lifetime is 30 years, if the solar lifetime is more than 30 years, the stand along solar may be cost effective. In that case I would recommend the standalone solar setup.
+4) I would recommend standalone solar system setup because my analysis finds that  this setup is most cost-effective, under my assumptions. However, this result is based on the assumption that solar plant lifetime is 30 years, if the solar lifetime is less than 30 years, the standalone solar may be not as much as cost effective.
 
 Future Work
 Follow up approach should include:
@@ -27,6 +27,6 @@ Model for storage should include acetary services prices options
 <li>Emission savings  </li>
  <li>Tax savings  </li>
  <li>Capacity savings  </li>
-   </ul> 
+ </ul> 
    
    
